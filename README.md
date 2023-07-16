@@ -1,2 +1,2 @@
 # muffin-bot
-Bot for the muffin grou discord server
+Bot for the muffin group discord server
