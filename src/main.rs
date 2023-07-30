@@ -10,9 +10,7 @@ const HELP_MESSAGE: &str = "You are ugly";
 
 const HELP_COMMAND: &str = "!thetruth";
 
-const MUFFIN_MSG: &str = "
-Muffins are nice
-";
+const MUFFIN_MSG: &str = "Muffins are nice";
 
 const MUFFIN_CMD: &str = "!muffin";
 
