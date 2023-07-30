@@ -6,12 +6,9 @@ use serenity::{
     prelude::*,
 };
 
-const HELP_MESSAGE: &str = "
-You are ugly
-";
+const HELP_MESSAGE: &str = "You are ugly";
 
 const HELP_COMMAND: &str = "!thetruth";
-
 struct Handler;
 
 #[async_trait]
